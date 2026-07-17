@@ -12,7 +12,6 @@ This is my solution to the **Recipe Page** challenge on Frontend Mentor. The pro
 - **Solution URL:** https://github.com/debuglifehub/Simple-Omelette-Recipe.git
 - **Live Site URL:** https://simpleomelette-recipe.netlify.app/
 
-> Replace the links above with your GitHub repository and live website URLs.
 
 ## 🛠️ Built With
 
@@ -51,8 +50,8 @@ In future projects, I want to improve my skills in:
 
 ## 👨‍💻 Author
 
-- GitHub - [Your GitHub Username](https://github.com/debuglifehub)
-- Frontend Mentor - [Your Frontend Mentor Username](https://www.frontendmentor.io/profile/debuglifehub)
+- GitHub - [GitHub](https://github.com/debuglifehub)
+- Frontend Mentor - [Frontend Mentor](https://www.frontendmentor.io/profile/debuglifehub)
 
 ## 🙏 Acknowledgments
 
