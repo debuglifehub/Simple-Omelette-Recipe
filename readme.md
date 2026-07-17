@@ -4,13 +4,13 @@ This is my solution to the **Recipe Page** challenge on Frontend Mentor. The pro
 
 ## 📸 Screenshot
 
-![Recipe Page Screenshot](./screenshot.png)
+![Recipe Page Screenshot](./recipe.jpg)
 
-> Replace `screenshot.png` with a screenshot of your completed project.
 
 ## 🔗 Links
 
 - **Solution URL:** https://github.com/debuglifehub/Simple-Omelette-Recipe.git
+- **Live Site URL:** https://simpleomelette-recipe.netlify.app/
 
 > Replace the links above with your GitHub repository and live website URLs.
 
